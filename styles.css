@@ -233,7 +233,6 @@ nav ul li a:hover {
 
 #draggable {
     width: 15vw;
-    height: 15vw;
     position: absolute;
     bottom: 50px;  /* 초기 위치 설정 */
     left: 50px; /* 초기 위치 설정 */
@@ -273,4 +272,5 @@ nav ul li a:hover {
         margin: 50px 0 0 10px;
     }
 }
+
 

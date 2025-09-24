@@ -246,7 +246,7 @@ nav ul li a:hover {
 /* 반응형: 모바일에서도 네비게이션 아래에서 시작 */
 @media screen and (max-width: 768px) {
     body {
-        font-size: 15px; /* 기존 유지 */
+        font-size: 30px; /* 기존 유지 */
         /* line-height는 상속 그대로 (변경 X) */
     }
 
@@ -272,5 +272,6 @@ nav ul li a:hover {
         margin: 50px 0 0 10px;
     }
 }
+
 
 

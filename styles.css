@@ -84,6 +84,7 @@ nav ul li a:hover {
 
 /* === 메인 페이지 스타일 === */
 .intro {
+    font-size: 46px;
     max-width: 600px;
     min-width: 200px;
     margin: 40px 0 0 20px;
@@ -272,3 +273,4 @@ nav ul li a:hover {
         margin: 50px 0 0 10px;
     }
 }
+
